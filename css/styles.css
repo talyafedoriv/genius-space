@@ -263,9 +263,9 @@ ul {
   height: 444px;
   padding: 24px;
   border-radius: 16px;
-  border: 1px solid gray;
+  border: 1px solid gray; /* remove */
 
-  background: linear-gradient(
+  background-image: linear-gradient(
     180deg,
     rgba(49, 38, 26, 0) 55.21%,
     rgba(49, 38, 26, 0.71) 72.92%,
